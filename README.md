@@ -14,5 +14,20 @@ Further analysis is offered in the form of a small table that provides the ticke
 
 This further allows the user to quickly assess some of the outliers within each year's dataset.
 
-## Table of Contents
-- 
+## Repo File Contents
+- [SummaryModule.vbs](https://github.com/zmoloci/challenge2VBA/blob/main/SummaryModule.vbs)
+  - Visual Basics Module containing script
+- [alphabetical_testing-incomplete.xlsm](https://github.com/zmoloci/challenge2VBA/blob/main/alphabetical_testing-incomplete.xlsm)
+  - Small Excel file with a portion of the original dataset. Used to test script and quickly troubleshoot issues
+- [2018_Screenshot.png](https://github.com/zmoloci/challenge2VBA/blob/main/2018_Screenshot.png)
+  - Screenshot of the result showing the 2018 worksheet
+- [2019_Screenshot.png](https://github.com/zmoloci/challenge2VBA/blob/main/2019_Screenshot.png)
+  - Screenshot of the result showing the 2019 worksheet
+- [2020_Screenshot.png](https://github.com/zmoloci/challenge2VBA/blob/main/2020_Screenshot.png)
+  - Screenshot of the result showing the 2020 worksheet
+- [README.md](https://github.com/zmoloci/challenge2VBA/blob/main/README.md)
+  - This file
+
+Please feel free to add alternate modules to this repo, but do so in a new file. Please do not edit or remove the existing files.
+
+==Contact me with any questions==
