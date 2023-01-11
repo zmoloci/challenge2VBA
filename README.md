@@ -14,6 +14,14 @@ Further analysis is offered in the form of a small table that provides the ticke
 
 This further allows the user to quickly assess some of the outliers within each year's dataset.
 
+One of my favourite aspects of the functionality of the script is it's ability to perfectly replicate the process across each worksheet in a workbook as long as the datasets are all formatted in the same way, with the following headings in the first row across the first seven columns of each sheet:
+
+<ticker>	<date>	<open>	<high>	<low>	<close>	<vol>
+  
+
+  
+
+
 ## Repo File Contents
 - [SummaryModule.vbs](https://github.com/zmoloci/challenge2VBA/blob/main/SummaryModule.vbs)
   - Visual Basics Module containing script
